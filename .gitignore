@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+data/*.xml
+data/*.zip
+data/*.db
+!data/.gitkeep
+.pytest_cache/
+
+# 공모전 제안서 작업물 (프로젝트 코드와 무관)
+_scratch_docx/
+~$*
+
+# 에디터 설정
+.vscode/
+.idea/
